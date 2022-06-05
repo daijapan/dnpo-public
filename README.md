@@ -13,6 +13,8 @@ Project:coming soon (工程表 / Gantt Chart)
 Wiki : coming soon (Issueの会話の中で生まれたノウハウを階層構造で見やすく再編集すればできます=担当の方が必要)
 Facebook Group Dataのアーカイブ化：https://zapier.com/apps/facebook-groups/integrations/github (testing)
 
+スローガンは"Git Everything!" : たぶんNPOの生産性は、、、x10-x1000倍くらい改善するはずです(実験中)
+
 (wikiより)
 
 オープンソース（英: open source）とは、コンピューターソフトウェアをバイナリプログラムのみの配布ではなく、プログラムの設計図であるソースコードが入手でき、目的を問わず利用、修正、頒布できることの明示的な許可および、それを利用する個人や団体の努力、利益を遮ることがないライセンスを適用したコンピューターソフトウェアと、そのソフトウェア開発の手法。
