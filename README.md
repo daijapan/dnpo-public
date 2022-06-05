@@ -6,6 +6,13 @@ To : NPOの友人Tさんへ。これはGitHubによるプロジェクトマネ�
 MIT Licenseなので、著作権フリー・可変可能・商用可能です。
 IT業界が爆速で成長する基盤となる"オープンソース(著作権フリー)"の力をぜひ非ITの皆様にも大変頂きたいと思い、作りました。
 
+
+使う機能：
+Issue:https://github.com/daijapan/dnpo-public/issues
+Project:coming soon (工程表 / Gantt Chart)
+Wiki : coming soon (Issueの会話の中で生まれたノウハウを階層構造で見やすく再編集すればできます=担当の方が必要)
+Facebook Group Dataのアーカイブ化：https://zapier.com/apps/facebook-groups/integrations/github (testing)
+
 (wikiより)
 
 オープンソース（英: open source）とは、コンピューターソフトウェアをバイナリプログラムのみの配布ではなく、プログラムの設計図であるソースコードが入手でき、目的を問わず利用、修正、頒布できることの明示的な許可および、それを利用する個人や団体の努力、利益を遮ることがないライセンスを適用したコンピューターソフトウェアと、そのソフトウェア開発の手法。
