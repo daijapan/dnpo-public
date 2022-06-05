@@ -8,10 +8,18 @@ IT業界が爆速で成長する基盤となる"オープンソース(著作権�
 
 
 使う機能：
+
 Issue:https://github.com/daijapan/dnpo-public/issues
+
+
 Project:coming soon (工程表 / Gantt Chart)
+
+
 Wiki : coming soon (Issueの会話の中で生まれたノウハウを階層構造で見やすく再編集すればできます=担当の方が必要)
+
+
 Facebook Group Dataのアーカイブ化：https://zapier.com/apps/facebook-groups/integrations/github (testing)
+
 
 スローガンは"Git Everything!" : たぶんNPOの生産性は、、、x10-x1000倍くらい改善するはずです(実験中)
 
